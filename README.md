@@ -1,0 +1,2 @@
+# skolagit
+Cviceni repoz
